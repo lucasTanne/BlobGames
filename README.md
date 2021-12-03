@@ -16,6 +16,15 @@ Now extracts all files to obtain this tree view:
 
 Finally, run `BlobGames.exe` to start the game.
 
+## Bindings
+- move forward: `Z`
+- move backward: `S`
+- move left: `D`
+- move right: `Q`
+- take object: `E`
+- drop object: `E`
+- jump: `Space`
+
 ## Game Goal
 To finish the game you must find 2 keys and open double doors to climb on the `pantheon of Blob`.<br>
 
